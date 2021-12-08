@@ -1,0 +1,11 @@
+.singleMeal{
+    display: flex;
+    border-bottom: 1px solid silver;
+    padding: 10px;
+    margin: 0 10px;
+}
+.singleMeal img{
+    width: 250px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
